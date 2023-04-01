@@ -1,6 +1,6 @@
 <h1 align="center">Assalamu Alaikum, I'm Rayan</h1>
 <h3 align="center">A competitive programmer and developer from Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.rayanofficial.me/static/media/devimage.433a1854bee4d2e98e89.jpg" \>
+<img align="right" alt="Coding" width="300" src="https://www.rayanofficial.me/static/media/devimage.433a1854bee4d2e98e89.jpg" \>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xr4y4n&label=Profile%20views&color=0e75b6&style=flat" alt="0xr4y4n" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xr4y4n" alt="0xr4y4n" /></a> </p>
