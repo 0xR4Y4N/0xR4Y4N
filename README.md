@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Competitive Programming**
 
-- 🌱 I’m currently learning **Java DSA**
+- 🌱 I’m currently learning **Java DSA and Machine Learning**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
